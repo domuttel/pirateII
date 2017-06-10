@@ -1,0 +1,47 @@
+.artist-name {
+    &:hover {
+        background-color: $black;
+        color: $white;
+    }
+}
+.artist-profile {
+    margin: 0;
+}
+
+// .artworks-container {
+//     width: 100%;
+//     .artworks {
+//         width: inherit;
+//         .art {
+//             width: auto;
+//             img{
+//                 width: auto;
+//             }
+//         }
+//         .about-art {
+//
+//         }
+//
+//     }
+//
+// }
+.artworks {
+    padding-top: 100px;
+}
+.art {
+    img {
+        max-width:100%;
+        max-height:100%;
+    }
+}
+.hidden-profile{
+    margin-bottom: 100px;
+    font-family: "Athiti";
+    a{
+        color: $black;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

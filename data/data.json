@@ -1,0 +1,196 @@
+{
+	"home": {
+		"meta-title": "home page",
+		"meta-description": "This description is coming from the data json file"
+	},
+	"about": {
+		"meta-title": "about page",
+		"meta-description": "This description is coming from the data json file.",
+		"title": "This is the About Page"
+	},
+	"featuredArtists": [
+		{
+			"name": "Nicole Banowetz",
+			"phone": "303-507-4260",
+			"email": "n.a.banowetz@gmail.com",
+			"website": "<a href='http://www.nicolebanowetz.com' target='_blank'>www.nicolebanowetz.com</a>",
+			"memberType": "Member",
+
+			"artwork1": "<img src='/images/banowetz_n/Banowetzimage1.jpg' alt='Distended Defense'>",
+			"title1": "Distended Defense",
+			"year1": "2016",
+			"medium1": "Oxford fabric, blowers and backpack frame",
+
+			"artwork2": "<img src='/images/banowetz_n/Banowetzimage2.jpg' alt='Gentle Infestation'>",
+			"title2": "Gentle Infestation",
+			"year2": "2015",
+			"medium2": "Oxford fabric, string, blowers, and  slip cast porcelain",
+
+			"artwork3": "<img src='/images/banowetz_n/Banowetzimage3.jpg' alt='Rhinos and Sea Anemones Fighting'>",
+			"title3": "Rhinos and Sea Anemones Fighting",
+			"year3": "2017",
+			"medium3": "Oxford fabric, blowers and slip cast porcelain"
+		},
+		{
+		    "name": "Brian Cavanaugh",
+		    "phone": "",
+		    "email": ".com",
+		    "website": "<a href='http://www.bcavanaughartwork.com' target='_blank'>www.bcavanaughartwork.com</a>",
+		    "memberType": "Member",
+
+		    "artwork1": "<img src='/images/cavanaugh_b/cavanaugh1.png' alt='Trapping Sparrows'>",
+		    "title1": "Trapping Sparrows",
+		    "year1": "2017",
+		    "medium1": "installation mixed media",
+
+		    "artwork2": "<img src='/images/cavanaugh_b/cavanaugh2.png' alt='Trapping Sparrows'>",
+		    "title2": "Trapping Sparrows",
+		    "year2": "2017",
+		    "medium2": "installation mixed media",
+
+		    "artwork3": "<img src='/images/cavanaugh_b/cavanaugh3.JPG' alt='Trapping Sparrows'>",
+		    "title3": "Trapping Sparrows",
+		    "year3": "2017",
+		    "medium3": "installation mixed media"
+		},
+		{
+		    "name": "Rebecca Cuming",
+		    "phone": "",
+		    "email": ".com",
+		    "website": "<a href='http://www.rebeccacuming.com' target='_blank'>www.rebeccacuming.com</a>",
+		    "memberType": "Member",
+
+		    "artwork1": "<img src='/images/cuming_r/Cuming1.jpg' alt='Poppies'>",
+		    "title1": "Poppies",
+		    "year1": "2015",
+		    "medium1": "Oil on canvas",
+
+		    "artwork2": "<img src='/images/cuming_r/Cuming2.jpg' alt='Pollen'>",
+		    "title2": "Pollen",
+		    "year2": "2016",
+		    "medium2": "Oil on canvas",
+
+		    "artwork3": "<img src='/images/cuming_r/Cuming3.jpg' alt='Migration'>",
+		    "title3": "Migration",
+		    "year3": "2015",
+		    "medium3": "Oil on canvas"
+		},
+		{
+		    "name": "Heather Kegel",
+		    "phone": "",
+		    "email": "coloradoheatherk@q.com",
+		    "website": "<a href='http://www.heatherkegelart.com' target='_blank'>www.heatherkegelart.com</a>",
+		    "memberType": "Associate",
+
+		    "artwork1": "<img src='/images/kegel_h/image1.jpg' alt='For Ruth'>",
+		    "title1": "For Ruth",
+		    "year1": "2015",
+		    "medium1": "Reduction fired porcelain",
+
+		    "artwork2": "<img src='/images/kegel_h/image2.jpg' alt='Bottle with Four Cups'>",
+		    "title2": "Bottle with Four Cups",
+		    "year2": "2015",
+		    "medium2": "3D printed porcelain",
+
+		    "artwork3": "<img src='/images/kegel_h/image3.jpg' alt='Lilly of the Valley'>",
+		    "title3": "Lilly of the Valley",
+		    "year3": "2015",
+		    "medium3": "Screen print"
+		},
+		{
+		    "name": "Charles Livingston",
+		    "phone": "720-354-7249",
+		    "email": "admin@charleslivingstonstudio.com",
+		    "website": "<a href='http://www.charleslivingstonstudio.com' target='_blank'>www.charleslivingstonstudio.com</a>",
+		    "memberType": "Member",
+
+		    "artwork1": "<img src='/images/livingston_c/Image1.JPG' alt='100,001 Accrete Variation II'>",
+		    "title1": "100,001 Accrete Variation II",
+		    "year1": "2003-2004",
+		    "medium1": "100,001 hand-knotted loops of jute twine",
+
+		    "artwork2": "<img src='/images/livingston_c/Image2.jpg' alt='Catalyst III'>",
+		    "title2": "Catalyst III",
+		    "year2": "2006-1008",
+		    "medium2": "Black ink on rice paper using rubber and wood blocks",
+
+		    "artwork3": "<img src='/images/livingston_c/Image3.jpg' alt='Landscape 449'>",
+		    "title3": "Landscape 449",
+		    "year3": "2014-2015",
+		    "medium3": "Wodd frame, 449 bicycle inner tubes, internal and external sound"
+		},
+		{
+			"name": "Dominic Muttel",
+			"phone": "97042067121",
+			"email": "domuttel@gmail.com",
+			"website": "<a href='http://www.domuconcept.com' target='_blank'>www.dominicmuttel.com</a>",
+			"memberType": "Associate",
+
+			"artwork1": "<img src='/images/muttel_d/tv1.jpg' alt='_001.img'>",
+			"title1": "_001.img",
+			"year1": "2015",
+			"medium1": "C-Print",
+
+			"artwork2": "<img src='/images/muttel_d/1.jpg' alt='Document #1'>",
+			"title2": "Document #1",
+			"year2": "2011",
+			"medium2": "Inkjet Print",
+
+			"artwork3": "<img src='/images/muttel_d/2.jpg' alt='Untitled'>",
+			"title3": "Untitled",
+			"year3": "2007",
+			"medium3": "Inkjet Print"
+		},
+		{
+		    "name": "Craig Robb",
+		    "phone": "",
+		    "email": ".com",
+		    "website": "<a href='http://www.craigrobb.com' target='_blank'>www.craigrobb.com</a>",
+		    "memberType": "Member",
+
+		    "artwork1": "<img src='/images/robb_c/Robb1.jpg' alt='Empty Pages'>",
+		    "title1": "Empty Pages",
+		    "year1": "2016",
+		    "medium1": "Wood, steel, cloth, glass",
+
+		    "artwork2": "<img src='/images/robb_c/Robb2.jpg' alt='4 houses'>",
+		    "title2": "4 houses",
+		    "year2": "2016",
+		    "medium2": "Wood, acrylic",
+
+		    "artwork3": "<img src='/images/robb_c/Robb3.jpg' alt='Vestiges of Days Yore'>",
+		    "title3": "Vestiges of Days Yore",
+		    "year3": "2016",
+		    "medium3": "Wood, glass stoppers, computer tape"
+		}
+
+	],
+	"artists": [
+		"Eric Anderson",
+		"Walter Barton",
+		"Justin Beard",
+		"Phil Bender",
+		"BUG",
+		"Jonathan Dow",
+		"d1dn: Mango Katz / Kelly Brewer",
+		"Chrissy Espinoza",
+		"Dylan Gebbia-Richards",
+		"Robert Green",
+		"Judith Grey",
+		"Heather Kegel",
+		"Shannon Kelly",
+		"Lisa Kerns",
+		"Maeve Leslie",
+		"Chip Lynch",
+		"Debra Sanders / Korri Marshall",
+		"Lucas McMahon",
+		"Tsogo Mijid",
+		"Kat Nechleba",
+		"Alicia Ordal",
+		"Louis Recchia",
+		"Laura Phelps Rogers",
+		"Noah Sodano",
+		"CU Denver Sculpture Club"
+	]
+
+}

@@ -1,0 +1,24 @@
+{
+    "name": "",
+    "phone": "",
+    "email": ".com",
+    "website": "<a href='http://www..com' target='_blank'>www..com</a>",
+    "memberType": "",
+
+    "artwork1": "<img src='/images/' alt=''>",
+    "title1": "",
+    "year1": "",
+    "medium1": "",
+
+    "artwork2": "<img src='/images/' alt=''>",
+    "title2": "",
+    "year2": "",
+    "medium2": "",
+
+    "artwork3": "<img src='/images/' alt=''>",
+    "title3": "",
+    "year3": "",
+    "medium3": ""
+}
+
+"artists": ["Eric Anderson", "Walter Barton", "Justin Beard", "Phil Bender", "BUG", "Jonathan Dow", "d1dn: Mango Katz / Kelly Brewer", "Chrissy Espinoza", "Dylan Gebbia-Richards", "Robert Green", "Judith Grey", "Heather Kegel", "Shannon Kelly", "Lisa Kerns", "Maeve Leslie", "Chip Lynch",  "Debra Sanders / Korri Marshall", "Lucas McMahon", "Tsogo Mijid", "Dominic Muttel", "Kat Nechleba", "Alicia Ordal", "Louis Recchia", "Laura Phelps Rogers", "Noah Sodano", "CU Denver Sculpture Club"]

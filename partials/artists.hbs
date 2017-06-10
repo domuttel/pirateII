@@ -1,0 +1,42 @@
+{{#each featuredArtists}}
+<div class="artist-profile columns seven">
+    <h2 class="artist-name">{{name}}</h2>
+    <div class="hidden-profile">
+        <span>{{memberType}}</span>
+        <div class="website">{{{website}}}</div>
+        <div class="artworks-container">
+            <div class="artworks">
+                <div class="art">
+                    {{{artwork1}}}
+                </div>
+                <div class="about-art">
+                    <span>{{title1}}, {{year1}}</span>
+                    <div>{{medium1}}</div>
+                    <div>{{dimensions1}}</div>
+                </div>
+            </div>
+            <div class="artworks">
+                <div class="art">
+                    {{{artwork2}}}
+
+                </div>
+                <div class="about-art">
+                    <span>{{title2}}, {{year2}}</span>
+                    <div>{{medium2}}</div>
+                    <div>{{dimensions2}}</div>
+                </div>
+            </div>
+            <div class="artworks">
+                <div class="art">
+                    {{{artwork3}}}
+                </div>
+                <div class="about-art">
+                    <span>{{title3}}, {{year3}}</span>
+                    <div>{{medium3}}</div>
+                    <div>{{dimensions3}}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{/each}}
